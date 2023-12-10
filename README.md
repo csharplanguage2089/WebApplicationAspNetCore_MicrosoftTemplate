@@ -4,3 +4,5 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor con
 Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.
 
 Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.
+
+!(image)[repository-open-graph-template.png "image"]
